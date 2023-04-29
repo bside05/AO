@@ -1,2 +1,2 @@
 # AO
-web
+web-technologies
